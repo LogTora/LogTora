@@ -1,0 +1,29 @@
+# AI context — never pushed to the public repo
+.ai/
+CLAUDE.md
+GEMINI.md
+AGENTS.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
