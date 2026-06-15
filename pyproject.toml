@@ -1,8 +1,11 @@
 [project]
-name = "logtoro"
+name = "LogTora"
 version = "0.1.0"
 requires-python = ">=3.11"
 dependencies = [
     "psycopg2-binary",
     "python-dotenv",
+    "litellm",
+    "fastembed",
+    "pgvector",
 ]
